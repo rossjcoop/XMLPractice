@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+	<movie>
+		<title>The Big Lebowski</title>
+		<year>1998</year>
+		<genre>Comedy</genre>
+	</movie>
+	<movie>
+		<title>Gattaca</title>
+		<year>1997</year>
+		<genre>Sci-Fi</genre>
+	</movie>
+	<movie>
+		<title>Pay It Forward</title>
+		<year>2000</year>
+		<genre>Drama</genre>
+	</movie>
+</collection>
